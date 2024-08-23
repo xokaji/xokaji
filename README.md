@@ -1,17 +1,17 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]((https://www.linkedin.com/in/ravindu-mahiti/))
 <h1 align="center">Hi 👋, I'm RaVindu Mahiti</h1>
-<h3 align="center">Full-Stack Developer, UI Designer & Researcher</h3>
+<h3 align="center">Full-Stack Developer, Code Geek & Researcher</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <a href="https://twitter.com/ravindumahiti" target="blank"><img src="https://img.shields.io/twitter/follow/ravindumahiti?logo=twitter&style=for-the-badge" alt="ravindumahiti" /></a> </p>
 
-- 🔭 I’m currently working on **Welawa Web Site and Portofolios**
+- 🔭 I’m currently working on **Smart Supermarket Management System**
 
-- 🌱 I’m currently learning **MYSQL, C#, JavaScript and React**
+- 🌱 I’m currently learning **ReactJS, Firebase, Flutter, NodeJS**
 
 - 👯 I’m looking to collaborate on **Front-End Developments and UI Designs**
 
-- 💬 Ask me about **HTML, CSS, Java and Python**
+- 💬 Ask me about **Front-End Developments**
 
 - 📫 How to reach me **rmahiti2@gmail.com**
 
